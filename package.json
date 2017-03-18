@@ -1,0 +1,31 @@
+{
+  "name": "puppyportfolio",
+  "version": "1.0.0",
+  "description": "making portpolio website",
+  "main": "PuppyPortfolio.html",
+  "dependencies": {
+    "flexboxgrid": "^6.3.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-uglify": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kothagundlahari/UdacityNanoDegreeFullStackweb.git"
+  },
+  "keywords": [
+    "portpolio"
+  ],
+  "author": "hari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kothagundlahari/UdacityNanoDegreeFullStackweb/issues"
+  },
+  "homepage": "https://github.com/kothagundlahari/UdacityNanoDegreeFullStackweb#readme"
+}

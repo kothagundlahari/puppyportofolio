@@ -1,0 +1,21 @@
+@media screen and (max-width:480px) {
+    .text-muted {
+        text-align: center;
+    }
+    .title-logo {
+        align-content: center;
+    }
+}
+
+@media screen and (min-width:481px) {
+    .header_inner_image {
+        order: 0;
+        width: 60%;
+        float: left;
+    }
+    .header_inner_text {
+        width: 1;
+        width: 40%;
+        float: right;
+    }
+}
