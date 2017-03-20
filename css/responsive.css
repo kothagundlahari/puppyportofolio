@@ -19,4 +19,7 @@
         text-align: left;
         width: 40%;
     }
+    .sub_text {
+        text-align: right;
+    }
 }
