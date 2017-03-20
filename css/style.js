@@ -2,20 +2,19 @@ import { StyleSheet } from 'react-native';
 
 export default StyleSheet.create({
   'body': {
-    'fontFamily': ''Lato', sans-serif',
+    'alignItems': 'center',
     'color': '#747704',
     'display': 'flex',
-    'alignItems': 'center',
-    'flexDirection': 'column',
-    'textAlign': 'center'
+    'fontFamily': '"Lato", sans-serif',
+    'flexDirection': 'column'
   },
   'text-muted': {
-    'color': '#BCBBBB'
+    'color': '#bcbbbb'
   },
   'title-logo': {
+    'height': [{ 'unit': 'px', 'value': 100 }],
     'marginTop': [{ 'unit': 'px', 'value': 20 }],
-    'width': [{ 'unit': 'px', 'value': 100 }],
-    'height': [{ 'unit': 'px', 'value': 100 }]
+    'width': [{ 'unit': 'px', 'value': 100 }]
   },
   'title-super': {
     'fontSize': [{ 'unit': 'px', 'value': 60 }],
@@ -25,12 +24,5 @@ export default StyleSheet.create({
     'backgroundColor': 'dimgrey !important',
     'color': 'dimgrey !important',
     'height': [{ 'unit': 'px', 'value': 5 }, { 'unit': 'string', 'value': '!important' }]
-  },
-  'article': {
-    'alignItems': 'center',
-    'display': 'flex',
-    'flexDirection': 'column',
-    'maxWidth': [{ 'unit': 'em', 'value': 50 }],
-    'borderBottom': [{ 'unit': 'px', 'value': 1 }, { 'unit': 'string', 'value': 'solid' }, { 'unit': 'string', 'value': '#ddd' }]
   }
 });

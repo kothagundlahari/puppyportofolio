@@ -1,20 +1,19 @@
 body {
-    font-family: 'Lato', sans-serif;
+    align-items: center;
     color: #747704;
     display: flex;
-    align-items: center;
+    font-family: "Lato", sans-serif;
     flex-direction: column;
-    text-align: center;
 }
 
 .text-muted {
-    color: #BCBBBB;
+    color: #bcbbbb;
 }
 
 .title-logo {
+    height: 100px;
     margin-top: 20px;
     width: 100px;
-    height: 100px;
 }
 
 .title-super {
@@ -26,12 +25,4 @@ hr {
     background-color: dimgrey !important;
     color: dimgrey !important;
     height: 5px !important;
-}
-
-article {
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    max-width: 50em;
-    border-bottom: 1px solid #ddd;
 }
