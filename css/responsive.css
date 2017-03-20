@@ -13,10 +13,13 @@
         float: left;
     }
     .header_inner_text {
-        float: right;
+        text-align: right;
     }
     .text-muted {
         text-align: left;
         width: 40%;
+    }
+    .sub_text {
+        text-align: left;
     }
 }
