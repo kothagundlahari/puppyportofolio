@@ -11,10 +11,12 @@
         .header_inner_image {
             order: 0;
             align-content: left;
+            width: 33.33%;
         }
         .header_inner_text {
             order: 1;
-            text-align: right;
+            align-content: right;
+            width: 66.67%;
         }
         .text-muted {
             text-align: left;

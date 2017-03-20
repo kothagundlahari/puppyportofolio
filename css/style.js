@@ -6,7 +6,8 @@ export default StyleSheet.create({
     'color': '#747704',
     'display': 'flex',
     'fontFamily': '"Lato", sans-serif',
-    'flexDirection': 'column'
+    'flexDirection': 'column',
+    'alignContent': 'center'
   },
   'text-muted': {
     'color': '#bcbbbb'
