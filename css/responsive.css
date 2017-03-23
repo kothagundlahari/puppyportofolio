@@ -11,6 +11,9 @@
         .header_inner_text {
             text-align: center;
         }
+        .featured_image {
+            text-align: center;
+        }
     }
     
     @media screen and (min-width:768px) {
