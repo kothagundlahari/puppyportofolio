@@ -6,10 +6,10 @@
             align-content: center;
         }
         .header_inner_image {
-            align-items: center;
+            text-align: center;
         }
         .header_inner_text {
-            align-items: center;
+            text-align: center;
         }
     }
     
@@ -20,7 +20,7 @@
         }
         .header_inner_text {
             order: 1;
-            float: right;
+            text-align: right;
         }
         .text-muted {
             text-align: left;
