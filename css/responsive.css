@@ -5,10 +5,10 @@
         .title-logo {
             align-content: center;
         }
-        .header_inner_image {
+        .header-inner-image {
             text-align: center;
         }
-        .header_inner_text {
+        .header-inner-text {
             text-align: center;
         }
         .featured_image {
@@ -17,11 +17,11 @@
     }
     
     @media screen and (min-width:768px) {
-        .header_inner_image {
+        .header-inner-image {
             order: 0;
             float: left;
         }
-        .header_inner_text {
+        .header-inner-text {
             order: 1;
             text-align: right;
         }
