@@ -26,3 +26,7 @@ hr {
     color: dimgrey !important;
     height: 5px !important;
 }
+
+.fstyle {
+    text-align: center;
+}

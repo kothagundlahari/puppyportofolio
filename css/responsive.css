@@ -1,7 +1,4 @@
     @media screen and (max-width:767px) {
-        .text-muted {
-            text-align: center;
-        }
         .title-logo {
             align-content: center;
         }
@@ -11,7 +8,7 @@
         .header-inner-text {
             text-align: center;
         }
-        .featured_image {
+        .featured-image {
             text-align: center;
         }
     }
@@ -25,10 +22,7 @@
             order: 1;
             text-align: right;
         }
-        .text-muted {
-            text-align: left;
-        }
-        .featured_image {
+        .featured-image {
             text-align: left;
         }
         .title-logo {

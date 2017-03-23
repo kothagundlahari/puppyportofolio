@@ -24,5 +24,8 @@ export default StyleSheet.create({
     'backgroundColor': 'dimgrey !important',
     'color': 'dimgrey !important',
     'height': [{ 'unit': 'px', 'value': 5 }, { 'unit': 'string', 'value': '!important' }]
+  },
+  'fstyle': {
+    'textAlign': 'center'
   }
 });
